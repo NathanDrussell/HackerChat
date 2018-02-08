@@ -1,0 +1,39 @@
+c:\users\natha\source\repos\Hacker\Hacker\bin\Debug\Hacker.exe.config
+c:\users\natha\source\repos\Hacker\Hacker\bin\Debug\Hacker.exe
+c:\users\natha\source\repos\Hacker\Hacker\bin\Debug\Hacker.pdb
+c:\users\natha\source\repos\Hacker\Hacker\bin\Debug\Newtonsoft.Json.dll
+c:\users\natha\source\repos\Hacker\Hacker\bin\Debug\Newtonsoft.Json.Schema.dll
+c:\users\natha\source\repos\Hacker\Hacker\bin\Debug\Newtonsoft.Json.xml
+c:\users\natha\source\repos\Hacker\Hacker\bin\Debug\Newtonsoft.Json.Schema.xml
+c:\users\natha\source\repos\Hacker\Hacker\obj\Debug\Hacker.csproj.CoreCompileInputs.cache
+c:\users\natha\source\repos\Hacker\Hacker\obj\Debug\Hacker.exe
+c:\users\natha\source\repos\Hacker\Hacker\obj\Debug\Hacker.pdb
+c:\users\natha\source\repos\Hacker\Hacker\obj\Debug\Hacker.csprojResolveAssemblyReference.cache
+D:\Source\Hacker\Hacker\bin\Debug\Hacker.exe.config
+D:\Source\Hacker\Hacker\bin\Debug\Hacker.exe
+D:\Source\Hacker\Hacker\bin\Debug\Hacker.pdb
+D:\Source\Hacker\Hacker\bin\Debug\Newtonsoft.Json.dll
+D:\Source\Hacker\Hacker\bin\Debug\Newtonsoft.Json.Schema.dll
+D:\Source\Hacker\Hacker\bin\Debug\Newtonsoft.Json.xml
+D:\Source\Hacker\Hacker\bin\Debug\Newtonsoft.Json.Schema.xml
+D:\Source\Hacker\Hacker\obj\Debug\Hacker.csprojResolveAssemblyReference.cache
+D:\Source\Hacker\Hacker\obj\Debug\Hacker.csproj.CoreCompileInputs.cache
+D:\Source\Hacker\Hacker\obj\Debug\Hacker.exe
+D:\Source\Hacker\Hacker\obj\Debug\Hacker.pdb
+C:\Source\Hacker\Hacker\obj\Debug\Hacker.csprojResolveAssemblyReference.cache
+C:\Source\Hacker\Hacker\obj\Debug\Hacker.csproj.CoreCompileInputs.cache
+C:\Source\Hacker\Hacker\obj\Debug\Hacker.exe
+C:\Source\Hacker\Hacker\obj\Debug\Hacker.pdb
+C:\Source\Hacker\Hacker\bin\Debug\Hacker.exe.config
+C:\Source\Hacker\Hacker\bin\Debug\Hacker.exe
+C:\Source\Hacker\Hacker\bin\Debug\Hacker.pdb
+C:\Source\Hacker\Hacker\bin\Debug\Newtonsoft.Json.dll
+C:\Source\Hacker\Hacker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nathan Russell\source\repos\HackerChat\Hacker\bin\Debug\Hacker.exe.config
+C:\Users\Nathan Russell\source\repos\HackerChat\Hacker\bin\Debug\Hacker.exe
+C:\Users\Nathan Russell\source\repos\HackerChat\Hacker\bin\Debug\Hacker.pdb
+C:\Users\Nathan Russell\source\repos\HackerChat\Hacker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nathan Russell\source\repos\HackerChat\Hacker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nathan Russell\source\repos\HackerChat\Hacker\obj\Debug\Hacker.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Russell\source\repos\HackerChat\Hacker\obj\Debug\Hacker.exe
+C:\Users\Nathan Russell\source\repos\HackerChat\Hacker\obj\Debug\Hacker.pdb
